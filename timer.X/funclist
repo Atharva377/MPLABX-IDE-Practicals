@@ -1,0 +1,6 @@
+_main: CODE, 186 0 18
+_timerInit: CODE, 204 0 14
+_Interrupt_Init: CODE, 218 0 10
+__initialization: CODE, 228 0 2
+_timerinterrupt: CODE, 24 0 158
+Total: 202

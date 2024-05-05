@@ -1,0 +1,7 @@
+_delay: CODE, 2230 0 32
+_send_instruction: CODE, 2262 0 20
+__stringdata: SMALLCONST, 2049 0 12
+_send_data: CODE, 2282 0 20
+_main: CODE, 2062 0 122
+__initialization: CODE, 2184 0 32
+Total: 238
